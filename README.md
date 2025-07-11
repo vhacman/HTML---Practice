@@ -5,5 +5,5 @@ Contiene piccoli esperimenti e test pratici utili per apprendere e consolidare c
 
 ##  Struttura del progetto
 
-- `exercise/`: cartella dedicata agli esercizi e snippet di codice.
+- `exercises/`: cartella dedicata agli esercizi e snippet di codice.
 - `theory/`: contiene esempi pratici che accompagnano lo studio teorico.
