@@ -1,7 +1,7 @@
 # CSS---Practice
 
-Un repository personale per esercitarsi con **CSS**
-Contiene piccoli esperimenti e test pratici utili per apprendere e consolidare concetti di CSS.
+Un repository personale per esercitarsi con **HTML**
+Contiene piccoli esperimenti e test pratici utili per apprendere e consolidare concetti di HTML.
 
 ##  Struttura del progetto
 
